@@ -1,0 +1,16 @@
+Wedding calculator / Калькулятор свадьбы
+
+Manrope — SIL Open Font License 1.1.
+Source: https://github.com/google/fonts/tree/main/ofl/manrope
+License: licenses/manrope-OFL.txt
+
+Cormorant Garamond — SIL Open Font License 1.1.
+Source: https://github.com/google/fonts/tree/main/ofl/cormorantgaramond
+License: licenses/cormorant-OFL.txt
+
+Icons adapted from Lucide / Feather.
+Source: https://github.com/lucide-icons/lucide
+License and copyright: licenses/lucide-LICENSE.txt
+
+assets/wedding-table.png was generated with imagegen for this project.
+It is an illustrative image, not a photograph of any listed venue.
